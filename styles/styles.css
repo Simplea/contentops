@@ -65,7 +65,10 @@ input, select, textarea {
   width: device-width; }
 
 body {
-  -ms-overflow-style: scrollbar; }
+  -ms-overflow-style: scrollbar; 
+  width: 1280px;
+  margin: auto;
+}
 
 @media screen and (max-width: 480px) {
   html, body {
